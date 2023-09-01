@@ -13,6 +13,6 @@ namespace MVCTestApp.Entities
         public string Country { get; set; }
         public string Phone { get; set; }
 
-    }
+    } //Mario 
 }
 
