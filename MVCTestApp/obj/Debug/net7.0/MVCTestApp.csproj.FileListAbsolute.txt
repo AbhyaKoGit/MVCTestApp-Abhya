@@ -1,0 +1,152 @@
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/appsettings.Development.json
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/appsettings.json
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.staticwebassets.runtime.json
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.exe
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.deps.json
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.runtimeconfig.json
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.csproj.AssemblyReference.cache
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.AssemblyInfoInputs.cache
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.AssemblyInfo.cs
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.csproj.CoreCompileInputs.cache
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.MvcApplicationPartsAssemblyInfo.cache
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.RazorAssemblyInfo.cache
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.RazorAssemblyInfo.cs
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/staticwebassets/msbuild.MVCTestApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/staticwebassets/msbuild.build.MVCTestApp.props
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MVCTestApp.props
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MVCTestApp.props
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/staticwebassets.pack.json
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/staticwebassets.build.json
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/staticwebassets.development.json
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/scopedcss/bundle/MVCTestApp.styles.css
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/scopedcss/projectbundle/MVCTestApp.bundle.scp.css
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/refint/MVCTestApp.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.genruntimeconfig.cache
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/ref/MVCTestApp.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Azure.Core.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Azure.Identity.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/System.Memory.Data.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/obj/Debug/net7.0/MVCTestApp.csproj.CopyComplete
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.BAL.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.DAL.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.Entities.dll
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.BAL.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.DAL.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp/bin/Debug/net7.0/MVCTestApp.Entities.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/appsettings.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.staticwebassets.runtime.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.deps.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.runtimeconfig.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Azure.Core.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Azure.Identity.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.BAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.DAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.Entities.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.BAL.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.DAL.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/bin/Debug/net7.0/MVCTestApp.Entities.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.csproj.AssemblyReference.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.AssemblyInfoInputs.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.AssemblyInfo.cs
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.csproj.CoreCompileInputs.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.RazorAssemblyInfo.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.RazorAssemblyInfo.cs
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/staticwebassets/msbuild.MVCTestApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/staticwebassets/msbuild.build.MVCTestApp.props
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MVCTestApp.props
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MVCTestApp.props
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/scopedcss/bundle/MVCTestApp.styles.css
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/scopedcss/projectbundle/MVCTestApp.bundle.scp.css
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.csproj.CopyComplete
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/refint/MVCTestApp.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/MVCTestApp.genruntimeconfig.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp/obj/Debug/net7.0/ref/MVCTestApp.dll

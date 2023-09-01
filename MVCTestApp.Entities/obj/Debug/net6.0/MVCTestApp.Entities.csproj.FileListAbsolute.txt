@@ -1,0 +1,24 @@
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/bin/Debug/net6.0/MVCTestApp.Entities.deps.json
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/bin/Debug/net6.0/MVCTestApp.Entities.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/bin/Debug/net6.0/MVCTestApp.Entities.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.csproj.AssemblyReference.cache
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.AssemblyInfoInputs.cache
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.AssemblyInfo.cs
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.csproj.CoreCompileInputs.cache
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/obj/Debug/net6.0/refint/MVCTestApp.Entities.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp.Entities/obj/Debug/net6.0/ref/MVCTestApp.Entities.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/bin/Debug/net6.0/MVCTestApp.Entities.deps.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/bin/Debug/net6.0/MVCTestApp.Entities.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/bin/Debug/net6.0/MVCTestApp.Entities.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.csproj.AssemblyReference.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.AssemblyInfoInputs.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.AssemblyInfo.cs
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.csproj.CoreCompileInputs.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/obj/Debug/net6.0/refint/MVCTestApp.Entities.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/obj/Debug/net6.0/MVCTestApp.Entities.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.Entities/obj/Debug/net6.0/ref/MVCTestApp.Entities.dll

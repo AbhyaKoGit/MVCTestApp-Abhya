@@ -1,0 +1,34 @@
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.BAL.deps.json
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.BAL.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.BAL.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.DAL.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.Entities.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.DAL.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.Entities.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.csproj.AssemblyReference.cache
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.AssemblyInfoInputs.cache
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.AssemblyInfo.cs
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.csproj.CoreCompileInputs.cache
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.csproj.CopyComplete
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/refint/MVCTestApp.BAL.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp.BAL/obj/Debug/net6.0/ref/MVCTestApp.BAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.BAL.deps.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.BAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.BAL.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.DAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.Entities.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.DAL.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/bin/Debug/net6.0/MVCTestApp.Entities.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.csproj.AssemblyReference.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.AssemblyInfoInputs.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.AssemblyInfo.cs
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.csproj.CoreCompileInputs.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.csproj.CopyComplete
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/refint/MVCTestApp.BAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/MVCTestApp.BAL.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.BAL/obj/Debug/net6.0/ref/MVCTestApp.BAL.dll

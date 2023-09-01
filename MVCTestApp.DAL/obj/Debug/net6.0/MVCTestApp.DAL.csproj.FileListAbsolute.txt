@@ -1,0 +1,30 @@
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.DAL.deps.json
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.DAL.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.DAL.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.Entities.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.Entities.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.csproj.AssemblyReference.cache
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.AssemblyInfoInputs.cache
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.AssemblyInfo.cs
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.csproj.CoreCompileInputs.cache
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.csproj.CopyComplete
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/refint/MVCTestApp.DAL.dll
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.pdb
+D:/Bhuban/MVCTestApp/MVCTestApp.DAL/obj/Debug/net6.0/ref/MVCTestApp.DAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.DAL.deps.json
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.DAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.DAL.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.Entities.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/bin/Debug/net6.0/MVCTestApp.Entities.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.csproj.AssemblyReference.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.AssemblyInfoInputs.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.AssemblyInfo.cs
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.csproj.CoreCompileInputs.cache
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.csproj.CopyComplete
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/refint/MVCTestApp.DAL.dll
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/MVCTestApp.DAL.pdb
+/Users/adhikari/Downloads/MVCTestApp 2/MVCTestApp.DAL/obj/Debug/net6.0/ref/MVCTestApp.DAL.dll
