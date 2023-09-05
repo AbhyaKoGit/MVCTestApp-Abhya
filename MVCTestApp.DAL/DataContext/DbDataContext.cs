@@ -16,5 +16,8 @@ namespace MVCTestApp.DAL.DataContext
         public DbSet<Customer> Customer { get; set; }
 
         public DbSet<Supplier> Supplier { get; set; }
+        public DbSet<Product> Product { get; set; }
+
+
     }
 }

@@ -7,7 +7,7 @@ namespace MVCTestApp.BAL.Inferaces
 	{
         IEnumerable<Supplier> GetSupplierList();
 
-        Customer GetSupplierById(int id);
+        Supplier GetSupplierById(int id);
 
         bool AddSupplier(Supplier customer);
 
