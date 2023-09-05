@@ -24,6 +24,8 @@ namespace MVCTestApp
             builder.Services.AddTransient<ICustomerServices, CustomerServices>();
             builder.Services.AddTransient<ISupplierRepo, SupplierRepo>();
             builder.Services.AddTransient<ISupplierServices, SupplierServices>();
+            builder.Services.AddTransient<IProductRepo, ProductRepo>();
+            builder.Services.AddTransient<IProductService, ProductService>();
 
             var app = builder.Build();
 
